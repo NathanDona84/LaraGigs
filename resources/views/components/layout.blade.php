@@ -49,7 +49,7 @@
                     <form class="inline" method="POST" action="/logout">
                         @csrf
                         <button type='submit'>
-                            <i class="fa-solid fa-door-closed">Logout</i>
+                            <i class="fa-solid fa-door-closed fa-sm">Logout</i>
                         </button>
                     </form>
                 </li>
